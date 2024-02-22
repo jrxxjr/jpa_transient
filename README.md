@@ -1,4 +1,5 @@
-﻿Portuguese: Exemplo de como utilizar a anotação @Transient em uma aplicação JPA
+﻿Portuguese: 
+# Exemplo de como utilizar a anotação @Transient em uma aplicação JPA
 
 1 - Foi criado um projeto Maven do Eclipse, é só importar um projeto Maven no Eclipse.  
 
@@ -13,7 +14,8 @@
 6 - Verificar na tabela Blog do banco de dados se foi omitida a coluna correspondente ao atributo da 
 classe Blog com a anotação @Transient.
 
-English: Example of how to use the @Transient in the JPA application
+English: 
+# Example of how to use the @Transient in the JPA application
 
 1 - A standard Eclipse Maven project was created, just import a Maven project in Eclipse.
 
