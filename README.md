@@ -13,7 +13,7 @@
 
 6 - Verificar na tabela Blog do banco de dados se foi omitida a coluna correspondente ao atributo da 
 classe Blog com a anotação @Transient.
-
+______________________________________________________________________________________________________________________________________________
 English: 
 # Example of how to use the @Transient in the JPA application
 
